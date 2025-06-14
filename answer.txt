@@ -1,0 +1,2 @@
+- Cau lenh cai dat email: git config --global "your email"
+- Cau lenh cai dat name: git config --global "your name"
