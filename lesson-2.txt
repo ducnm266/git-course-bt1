@@ -1,0 +1,5 @@
+Giai thich cac cau lenh
+- git init: khoi tao repo
+- git add <file.name>: add chinh xac 1 file voi file name do len
+- git add .: add toan bo file co trong folder len
+- git commit -m<message>: commit noi dung vua add cung voi 1 mess thong bao
